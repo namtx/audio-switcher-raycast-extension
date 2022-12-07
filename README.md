@@ -1,10 +1,10 @@
-# Audio Switcher
+# Audio Switcher Raycast Extension
 
-Easily switch your audio devices directly in Raycast
+Easily switch your audio devices directly in Raycast 🔊
 
 # Requirements
 
-You need to install `switchaudio-osx` library first
+You need to install [switchaudio-osx](https://github.com/deweller/switchaudio-osx) library first.
 
 ```
 brew install switchaudio-osx

@@ -14,7 +14,7 @@
     {
       "name": "index",
       "title": "Audio Switcher",
-      "description": "",
+      "description": "Quickly switch your audio output device",
       "mode": "view"
     }
   ],
