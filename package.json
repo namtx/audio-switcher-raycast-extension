@@ -12,14 +12,15 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "audio-switcher",
+      "name": "index",
       "title": "Audio Switcher",
       "description": "",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.44.0"
+    "@raycast/api": "^1.44.0",
+    "run-applescript": "^6.0.0"
   },
   "devDependencies": {
     "@types/node": "18.8.3",
